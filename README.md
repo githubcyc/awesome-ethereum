@@ -19,6 +19,11 @@ A curated list of awesome Ethereum tutorials, articles, and resources.
 ## Ethereum
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - Explain how Ethereum functions at a technical level, without complex math or scary-looking formulas.
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)- Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains.
+- [basic](https://wiki.learnblockchain.cn/GLOSSARY_eth.html)
+- [learnblockchain](https://learnblockchain.cn/)
+
+### client
+- [pyethereum](https://github.com/ethereum/pyethereum) - python
 
 ## General
 - [Ethereum wiki](https://github.com/ethereum/wiki/wiki) - Official Ethereum wiki.
@@ -38,4 +43,14 @@ A curated list of awesome Ethereum tutorials, articles, and resources.
 
 ## todo
 - 将所有的英文介绍，改成中文介绍。
+
+## FAQ
+1. [stackexchange](https://ethereum.stackexchange.com/)
+
+## Ethereum Explorer
+1. [ropsten](ropsten.etherscan.io)
+2. [Website Navigation](https://ethfans.org/sites) - from ethfans
+
+## Smart Contract
+1. [wikis](https://ethfans.org/wikis/Home) - client-images,docs included
 
