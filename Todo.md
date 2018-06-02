@@ -48,8 +48,24 @@
 ## Wallet 
 1.[Trust](https://github.com/TrustWallet)
 
-2.[trezor](https://github.com/trezor)
+[TrustWallet/trust-wallet-android-source: Trust - Ethereum Wallet for Android (Inactive Repository)](https://github.com/TrustWallet/trust-wallet-android-source)
+
+2. [trezor](https://github.com/trezor)
+3. :star:[WALLETH - Android Ethereum wallet](https://walleth.org/)
+4. [Trust Browser - Mobile Web3 DApp Browser - Android & iOS](https://trustwalletapp.com/features/trust-browser)
+5. [bitcoin cracker](http://www.ibitlin.com/cracker)
+6. [Go语言的btcwallet源码分析 - 简书](https://www.jianshu.com/p/15fede3d91be)
+7. [OpenBazaar/spvwallet: P2P SPV Wallet/Library in Go used in OpenBazaar 2.0](https://github.com/OpenBazaar/spvwallet)
+8. [mappum/webcoin: SPV Bitcoin client for Node.js and the browser](https://github.com/mappum/webcoin)
+
 
 
 ## plugins
-[如何导出并打包第三方chrome扩展为crx？ - 知乎](https://www.zhihu.com/question/21884837)
+1. [如何导出并打包第三方chrome扩展为crx？ - 知乎](https://www.zhihu.com/question/21884837)
+
+## todo :star:
+1. [使用websocket协议完成推送（tornado.websocket.WebSocketHa](https://www.jianshu.com/p/6e890428744c)
+2. [crossbario/autobahn-python: WebSocket and WAMP in Python for Twisted and asyncio](https://github.com/crossbario/autobahn-python)
+3. [Welcome to TxMongo’s documentation! — TxMongo 18.1.0 documentation](https://txmongo.readthedocs.io/en/latest/)
+4. [kinecosystem/erc20token-sdk-python: Streamlines working with ERC20 tokens in Python](https://github.com/kinecosystem/erc20token-sdk-python)
+5. [greenthereum/greenthereum: Free and Open Source Ethereum tracker and account explorer app, built with React Native.](https://github.com/greenthereum/greenthereum)
