@@ -56,7 +56,10 @@ A curated list of awesome Ethereum tutorials, articles, and resources.
 
 
 ## Blog
-1.[ChainONE | 区块链技术指北 | ChainONE 官方博客](https://blog.chainone.xyz/)
-2.[ChainONE](https://github.com/BlockchainOne)
-3.[WeChat/2018-03.md · BlockchainOne/WeChat](https://github.com/BlockchainOne/WeChat/blob/b81aedb63b1c424c8903b45dd84f172c9957d4d1/2018/2018-03.md)
+1. [ChainONE | 区块链技术指北 | ChainONE 官方博客](https://blog.chainone.xyz/)
+2. [ChainONE](https://github.com/BlockchainOne)
+3. [WeChat/2018-03.md · BlockchainOne/WeChat](https://github.com/BlockchainOne/WeChat/blob/b81aedb63b1c424c8903b45dd84f172c9957d4d1/2018/2018-03.md)
 
+## Security
+1. [HackerOne](https://hackerone.com/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Aall&page=1&range=forever)
+2. [Guide to Cryptocurrency Security: Activating 2FA - Master The Crypto](https://masterthecrypto.com/crypto-security-activating-2fa/)

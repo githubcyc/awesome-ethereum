@@ -57,6 +57,7 @@
 6. [Go语言的btcwallet源码分析 - 简书](https://www.jianshu.com/p/15fede3d91be)
 7. [OpenBazaar/spvwallet: P2P SPV Wallet/Library in Go used in OpenBazaar 2.0](https://github.com/OpenBazaar/spvwallet)
 8. [mappum/webcoin: SPV Bitcoin client for Node.js and the browser](https://github.com/mappum/webcoin)
+9. [麦子钱包官网 - 最安全的数字资产钱包，支持ETH钱包、EOS钱包、NEO钱包](http://www.medishares.org/wallet/cn/)
 
 
 
@@ -69,3 +70,51 @@
 3. [Welcome to TxMongo’s documentation! — TxMongo 18.1.0 documentation](https://txmongo.readthedocs.io/en/latest/)
 4. [kinecosystem/erc20token-sdk-python: Streamlines working with ERC20 tokens in Python](https://github.com/kinecosystem/erc20token-sdk-python)
 5. [greenthereum/greenthereum: Free and Open Source Ethereum tracker and account explorer app, built with React Native.](https://github.com/greenthereum/greenthereum)
+6. [Ethereum Accounts, Address and Contracts](https://etherscan.io/address/0xd9a72fec8683db0666769d841d6d127f350b4418#code)
+7. [AirdropToken - Ethereum's future airdrop ecology!](http://airdrop.gift/)
+8. [Blockstack, building the decentralized internet](https://blockstack.org/)
+
+## :star: decentralized exchanges (DEXs)
+1. [How Decentralized Exchanges Enable Trustless Trade on Blockchains](https://perfectial.com/blog/decentralized-exchanges-enable-trustless-trade-blockchain-networks/)
+
+
+[EtherDelta](https://github.com/etherdelta)
+> :tada:The most popular ones, such as `EtherDelta` and `0x`, still provide an order book for buyers and sellers that’s, in a way, centralized and is handled off chain; the way they work, therefore, is this:
+
+* A person submits a (buy/sell) request to a relayer which hosts an order book (which can be administered in a centralized or decentralized fashion)
+* An interested party on the other end digitally signs it and creates a counterorder
+* Both orders are then sent to a smart contract on Ethereum, which executes the transaction and transfers crypto assets between users’ wallets.
+
+2. [Delta Balances](https://deltabalances.github.io/)
+3. [OasisDEX Open Trading Interfaces](https://github.com/OasisDEX)
+4. [Guide to Etherdelta Exchange: How to Trade on Etherdelta](https://masterthecrypto.com/guide-etherdelta-exchange-trade-etherdelta/)
+5. :star:[Cryptocurrencies Archives - Master The Crypto](https://masterthecrypto.com/category/cryptocurrencies/)
+6. [数字资产钱包「imToken」与0x合作，在钱包内推出去中心化交易平台「Tokenlon」_36氪](https://36kr.com/p/5129770.html)
+
+
+## WETH (wrapped ETH)
+1. [W-ETH](https://weth.io/)
+2. [什么是 WETH? – DDEX.io](https://support.ddex.io/hc/zh-cn/articles/115004535393-%E4%BB%80%E4%B9%88%E6%98%AF-WETH-)
+
+
+## :tada:protocol 
+> Unlike `EtherDelta` that just has one relayer service and an order book that it fully controls, decentralized exchange protocols, like `0x`, allow anyone to become a relayer and set up their own exchanges.
+> 
+> These relayers can then `collect fees` for matching orders – the process similar to mining, but designed to facilitate the trade of different tokens.
+> 
+> Besides, there are exchanges on Ethereum that avoid the order book functionality altogether. `KyberNetwork`, for example, has introduced a solution that allows people to send a token in and get another one out without a relayer, anonymously.
+
+[KyberNetwork/smart-contracts: Main smart contracts for Kyber Network exchange, including the main exchange contract, reserve contracts etc.](https://github.com/KyberNetwork/smart-contracts)
+
+[KyberNetwork code](https://etherscan.io/address/0x964f35fae36d75b1e72770e244f6595b68508cf5#code)
+
+## sidechain 
+1. [BTC Relay](http://btcrelay.org/)
+2. [Blockstream - Blockstream](https://blockstream.com/)
+3. [Welcome | Interledger](https://interledger.org/)
+4. [Blocknet | The Internet of Blockchains](https://www.blocknet.co/)
+
+
+## libs
+1. [bitcoinjs/bitcoinjs-lib: Bitcoin-related functions implemented in pure JavaScript](https://github.com/bitcoinjs/bitcoinjs-lib)
+2. 

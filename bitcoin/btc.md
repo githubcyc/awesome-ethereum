@@ -57,6 +57,7 @@
 2. [rawtx - lightning network wallet | rawtx is a mobile Bitcoin lightning network wallet app. It supports blockchain and lightning operations. Currently released on Android, iOS is coming soon.](https://rawtx.com/)
 3. [Bitcoin Lightning Wallet - Apps on Google Play](https://play.google.com/store/apps/details?id=com.lightning.walletapp)
 4. [btcontract/lnwallet: Bitcoin Lightning Wallet for Android](https://github.com/btcontract/lnwallet)
+5. [ScripterRon/BitcoinWallet: Bitcoin SPV wallet written in Java](https://github.com/ScripterRon/BitcoinWallet)
 
 
 ## Docker images
