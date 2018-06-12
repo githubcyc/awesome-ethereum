@@ -45,6 +45,10 @@
 
 3.[Search · erc20 event Transfer](https://github.com/search?l=Python&q=erc20+event+Transfer&type=Code)
 
+4. [added parity trace functions by ankitchiplunkar · Pull Request #850 · ethereum/web3.py](https://github.com/ethereum/web3.py/pull/850)
+
+5. [web3js - How to get contract internal transactions - Ethereum Stack Exchange](https://ethereum.stackexchange.com/questions/3417/how-to-get-contract-internal-transactions)
+
 ## Wallet 
 1.[Trust](https://github.com/TrustWallet)
 
@@ -90,7 +94,13 @@
 4. [Guide to Etherdelta Exchange: How to Trade on Etherdelta](https://masterthecrypto.com/guide-etherdelta-exchange-trade-etherdelta/)
 5. :star:[Cryptocurrencies Archives - Master The Crypto](https://masterthecrypto.com/category/cryptocurrencies/)
 6. [数字资产钱包「imToken」与0x合作，在钱包内推出去中心化交易平台「Tokenlon」_36氪](https://36kr.com/p/5129770.html)
+7. [去中心化交易所模式简析：路途还长_搜狐科技_搜狐网](https://www.sohu.com/a/203552936_489821)
+8. [Jay每周观点: 去中心化交易所---交易者的避风港 » 论坛 » EthFans | 以太坊爱好者](https://ethfans.org/posts/480)
+9. [0.000345 AURA/ETH - IDEX - Decentralized Ethereum Asset Exchange](https://idex.market/eth/aura)
+10. [新一代区块链去中心化交易所和相关协议--路印协议介绍 - CSDN博客](https://blog.csdn.net/sinat_34070003/article/details/79269411)
 
+> 0x、Kyber Network、Airswap、EtherDelta
+> Buy on the rumor, sell on the news.
 
 ## WETH (wrapped ETH)
 1. [W-ETH](https://weth.io/)
