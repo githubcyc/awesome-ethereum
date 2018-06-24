@@ -37,6 +37,8 @@
 
 18.[DywaneQ/ETHWallet: A etherem wallet like imToken](https://github.com/DywaneQ/ETHWallet)
 
+19. [Freewallet](https://freewallet.org/)
+
 
 ## Eth service
 1.[cryptoprimitive/events-server](https://github.com/cryptoprimitive/events-server)
@@ -98,6 +100,8 @@
 8. [Jay每周观点: 去中心化交易所---交易者的避风港 » 论坛 » EthFans | 以太坊爱好者](https://ethfans.org/posts/480)
 9. [0.000345 AURA/ETH - IDEX - Decentralized Ethereum Asset Exchange](https://idex.market/eth/aura)
 10. [新一代区块链去中心化交易所和相关协议--路印协议介绍 - CSDN博客](https://blog.csdn.net/sinat_34070003/article/details/79269411)
+11. [9 Best Decentralized Exchanges Which You Can Use To Trade Right Now](https://coinsutra.com/best-decentralized-exchanges-dex/)
+12. [The Best Decentralized Exchanges for Trading Cryptocurrency in 2018](https://blockonomi.com/decentralized-exchanges/)
 
 > 0x、Kyber Network、Airswap、EtherDelta
 > Buy on the rumor, sell on the news.
