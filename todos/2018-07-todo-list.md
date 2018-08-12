@@ -19,6 +19,7 @@
 ## 2018-08
 
 * :timer_clock:[running-pyspark-on-jupyter-notebook](https://medium.com/@suci/running-pyspark-on-jupyter-notebook-with-docker-602b18ac4494)
+* [2 PySpark on Zeppelin](https://www.jianshu.com/p/3147c59fe9de)
 * [How to use PySpark on your computer – Towards Data Science](https://towardsdatascience.com/how-to-use-pyspark-on-your-computer-9c7180075617) 
 * [PySpark Tutorial: Learn Apache Spark Using Python - DZone Big Data](https://dzone.com/articles/pyspark-tutorial-learn-apache-spark-using-python)
 * [Spark Streaming - Spark 2.3.1 Documentation](http://spark.apache.org/docs/latest/streaming-programming-guide.html#a-quick-example) 
@@ -29,8 +30,37 @@
 * [Use case: Prepare and clean data through quick operations, data profiles and visualization](https://medium.com/ibm-data-science-experience/use-case-prepare-and-clean-data-through-quick-operations-data-profiles-and-visualization-b6dbcca4e0e)
 * [Wine vs Sparkling Wine: A Neural Network image classification explained](https://towardsdatascience.com/wine-vs-sparkling-wine-a-neural-network-image-classification-explained-99a6ac477bfa)
 * [What exactly can you do with Python? Here are Python's 3 main applications.](https://medium.freecodecamp.org/what-can-you-do-with-python-the-3-main-applications-518db9a68a78)
+* :star:[EliteDataScience - Supercharge your data science career.](https://elitedatascience.com/)
 
 
 ## front end
 
 * [Building A Node CMS With KeystoneJS, Mongo DB, React and Redux Part I](https://itnext.io/building-a-node-cms-with-keystonejs-mongo-db-react-and-redux-part-i-ae5958496df2)
+* [Django admin](https://code.ziqiangxuetang.com/django/django-admin.html)
+* [djongo](https://juejin.im/entry/5acad3cef265da23914867df)
+* [ethan-funny/React-News-Board: A Full-Stack Web App built with React and Flask.](https://github.com/ethan-funny/React-News-Board)
+* [briancappello/flask-react-spa: A production-ready boilerplate built with Python 3, Flask and ES6 React/Redux](https://github.com/briancappello/flask-react-spa)
+* [Single Page Apps with Vue.js and Flask: RESTful API with Flask](https://stackabuse.com/single-page-apps-with-vue-js-and-flask-restful-api-with-flask/)
+
+
+## CMS
+* [Quokka CMS - The happiest CMS in the world](http://quokkaproject.org/)
+* [What are the best CMS for Django? - Quora](https://www.quora.com/What-are-the-best-CMS-for-Django) 
+
+
+## Graph database
+
+* [Graph Databases: Talking about your Data Relationships with Python](https://medium.com/labcodes/graph-databases-talking-about-your-data-relationships-with-python-b438c689dc89)
+* [Wikidata · PyPI](https://pypi.org/project/Wikidata/) 
+* [ayoungprogrammer/nlquery: Natural Language Engine on WikiData](https://github.com/ayoungprogrammer/nlquery)
+
+
+## ML
+
+* [machine-learning-notes: Machine Learning examples](https://github.com/zhangjunhd/machine-learning-notes)
+
+
+## data cleansing
+
+* https://gist.github.com/elFua/838327d4af10b7df37acaaa4cc48b94f
+* [lxml.html.clean.Cleaner Python Example](https://www.programcreek.com/python/example/63565/lxml.html.clean.Cleaner)
