@@ -41,26 +41,34 @@
 * [ethan-funny/React-News-Board: A Full-Stack Web App built with React and Flask.](https://github.com/ethan-funny/React-News-Board)
 * [briancappello/flask-react-spa: A production-ready boilerplate built with Python 3, Flask and ES6 React/Redux](https://github.com/briancappello/flask-react-spa)
 * [Single Page Apps with Vue.js and Flask: RESTful API with Flask](https://stackabuse.com/single-page-apps-with-vue-js-and-flask-restful-api-with-flask/)
+* [WTForms Documentation](http://wtforms.simplecodes.com/docs/0.6/fields.html#wtforms.fields.FieldList) 
+* [使用Flash和MongoEngine 写一个轻博客应用 — MongoDB Manual](https://mongodb-documentation.readthedocs.io/en/latest/tutorial/write-a-tumblelog-application-with-flask-mongoengine.html)
 
 
 ## CMS
 * [Quokka CMS - The happiest CMS in the world](http://quokkaproject.org/)
 * [What are the best CMS for Django? - Quora](https://www.quora.com/What-are-the-best-CMS-for-Django) 
+* [使用 Flask-Docs 自动生成 Api](https://segmentfault.com/a/1190000015653976)
 
 
 ## Graph database
 
 * [Graph Databases: Talking about your Data Relationships with Python](https://medium.com/labcodes/graph-databases-talking-about-your-data-relationships-with-python-b438c689dc89)
-* [Wikidata · PyPI](https://pypi.org/project/Wikidata/) 
+* [kegra: Deep Learning on Knowledge Graphs with Keras](https://towardsdatascience.com/kegra-deep-learning-on-knowledge-graphs-with-keras-98e340488b93) 
+* [Wikidata · PyPI](https://pypi.org/project/Wikidata/)
+* [OrientDB Java Interface](https://www.tutorialspoint.com/orientdb/orientdb_java_interface.htm) 
 * [ayoungprogrammer/nlquery: Natural Language Engine on WikiData](https://github.com/ayoungprogrammer/nlquery)
 
 
 ## ML
 
 * [machine-learning-notes: Machine Learning examples](https://github.com/zhangjunhd/machine-learning-notes)
+* [/Spark-Learning: spark](https://gitee.com/whzhaochao/spark-learning)
+* [awesome-spark/awesome-spark: A curated list of awesome Apache Spark packages and resources.](https://github.com/awesome-spark/awesome-spark)
 
 
 ## data cleansing
 
 * https://gist.github.com/elFua/838327d4af10b7df37acaaa4cc48b94f
 * [lxml.html.clean.Cleaner Python Example](https://www.programcreek.com/python/example/63565/lxml.html.clean.Cleaner)
+* :tada:[Python Example](https://www.programcreek.com/python/)
