@@ -40,7 +40,6 @@
 * [djongo](https://juejin.im/entry/5acad3cef265da23914867df)
 * [ethan-funny/React-News-Board: A Full-Stack Web App built with React and Flask.](https://github.com/ethan-funny/React-News-Board)
 * [briancappello/flask-react-spa: A production-ready boilerplate built with Python 3, Flask and ES6 React/Redux](https://github.com/briancappello/flask-react-spa)
-* [Single Page Apps with Vue.js and Flask: RESTful API with Flask](https://stackabuse.com/single-page-apps-with-vue-js-and-flask-restful-api-with-flask/)
 * [WTForms Documentation](http://wtforms.simplecodes.com/docs/0.6/fields.html#wtforms.fields.FieldList) 
 * [使用Flash和MongoEngine 写一个轻博客应用 — MongoDB Manual](https://mongodb-documentation.readthedocs.io/en/latest/tutorial/write-a-tumblelog-application-with-flask-mongoengine.html)
 
@@ -72,3 +71,25 @@
 * https://gist.github.com/elFua/838327d4af10b7df37acaaa4cc48b94f
 * [lxml.html.clean.Cleaner Python Example](https://www.programcreek.com/python/example/63565/lxml.html.clean.Cleaner)
 * :tada:[Python Example](https://www.programcreek.com/python/)
+
+## UI
+
+* [Vue Admin](https://admin.vuebulma.com/#/dashboard)
+* [basic](https://harsima.github.io/vue-backend/#/home)
+* [harsima/vue-backend: admin](https://github.com/harsima/vue-backend)
+* [async data - Nuxt.js](https://zh.nuxtjs.org/guide/async-data)
+* [airyland/vux: Mobile UI Components based on Vue & WeUI](https://github.com/airyland/vux) 
+* [iView](https://www.iviewui.com/docs/guide/start)
+
+## Vue
+
+* [VueJS](http://cn.vuejs.org/) 
+* [Vuex](https://vuex.vuejs.org/zh-cn/)   
+* [Axios——ajax](https://github.com/mzabriskie/axios)   
+* [liwudi/Vue: Vue demo](https://github.com/liwudi/Vue)
+* [vue video](https://www.codecasts.com/learn/frontend)
+
+
+## Todo
+
+* [IPFS blog](https://xiaozhuanlan.com/topic/0127398456#section)
