@@ -93,3 +93,7 @@
 ## Todo
 
 * [IPFS blog](https://xiaozhuanlan.com/topic/0127398456#section)
+* [Scrapy- 动态配置爬虫](https://www.xncoding.com/2016/04/10/scrapy-10.html)
+* :star:[Scrapy同步存储，twisted异步存储](https://baijiahao.baidu.com/s?id=1590088296026125171&wfr=spider&for=pc)
+* [scarpy 一个project 中 spider 怎么对应pipeline的？](https://www.zhihu.com/question/25018305)
+* :fire:[GraphQL | 一种为你的 API 而生的查询语言](http://graphql.cn/)
