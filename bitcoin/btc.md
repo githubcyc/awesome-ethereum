@@ -2,6 +2,8 @@
 
 ## bitcoin
 
+* [bitcoind eth](http://www.cnblogs.com/GuoJiaSheng/p/9176812.html)
+
 ### wallet/node
 1. :bell:[Eclair Wallet - Apps on Google Play](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2)
 2. :star:[bitcoinj](https://bitcoinj.github.io/)
