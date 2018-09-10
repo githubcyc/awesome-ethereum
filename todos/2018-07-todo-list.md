@@ -97,3 +97,4 @@
 * :star:[Scrapy同步存储，twisted异步存储](https://baijiahao.baidu.com/s?id=1590088296026125171&wfr=spider&for=pc)
 * [scarpy 一个project 中 spider 怎么对应pipeline的？](https://www.zhihu.com/question/25018305)
 * :fire:[GraphQL | 一种为你的 API 而生的查询语言](http://graphql.cn/)
+* [GraphQL API ](https://www.colabug.com/3514405.html)
